@@ -1,3 +1,7 @@
+This repo contains the dataset and code published in the article 
+Y.Heng, V.Chandrasekhar and J.G.Andrews, "UTMobileNetTraffic2021: A Labeled Public Network Traffic Dataset", to appear in IEEE Networking Letters
+Digital Object Identifier: 10.1109/LNET.2021.3098455
+
 # UTMobileNetTraffic2021
 To download the dataset, visit https://drive.google.com/drive/folders/1XFUg9zTv7B3ooZdbOTQzg1GmT2IwNSja?usp=sharing
 
