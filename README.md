@@ -3,7 +3,7 @@ Y.Heng, V.Chandrasekhar and J.G.Andrews, "UTMobileNetTraffic2021: A Labeled Publ
 Digital Object Identifier: 10.1109/LNET.2021.3098455  
 
 # UTMobileNetTraffic2021
-To download the dataset, visit https://drive.google.com/drive/folders/1XFUg9zTv7B3ooZdbOTQzg1GmT2IwNSja?usp=sharing  
+To download the dataset, visit https://utexas.box.com/s/okrimcsz1mn9ec4j667kbb00d9gt16ii  
   
 To run the code: 
 1. Place the downloaded dataset under ./Data folder.   
